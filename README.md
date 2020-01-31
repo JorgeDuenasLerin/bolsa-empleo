@@ -40,7 +40,7 @@ El proyecto servirá para gestionar una bolsa de empleo.
 
 ### Entidad-Relación
 
-![Análisis]: (docs/ER_bolsa_empleo.png)
+![Análisis]:(docs/ER_bolsa_empleo.png)
 
 ### URLS
 ```
