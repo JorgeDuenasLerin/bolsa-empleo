@@ -40,7 +40,7 @@ El proyecto servirá para gestionar una bolsa de empleo.
 
 ### Entidad-Relación
 
-![Análisis]:(https://raw.githubusercontent.com/JorgeDuenasLerin/bolsa-empleo/master/docs/ER_bolsa_empleo.png)
+![Análisis](https://raw.githubusercontent.com/JorgeDuenasLerin/bolsa-empleo/master/docs/ER_bolsa_empleo.png)
 
 ### URLS
 ```
